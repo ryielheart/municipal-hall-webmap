@@ -1,0 +1,350 @@
+{
+  "_help": "Edit only the text between quotation marks. For each office, fill in head (name of the office head) and title. Keep the id values unchanged. Keep every comma and quotation mark. Save, then upload this file to replace the old one.",
+  "building": {
+    "title": "Baao Municipal Hall",
+    "subtitle": "Find an office and see who heads it",
+    "updated": "2026-10-21"
+  },
+  "categories": {
+    "exec": "Executive & Legislative",
+    "finance": "Finance & Administration",
+    "planning": "Planning & Environment",
+    "social": "Health & Social Services",
+    "civil": "Civil & Regulatory Services",
+    "public": "Public Areas",
+    "restroom": "Restrooms",
+    "storage": "Storage"
+  },
+  "offices": [
+    {
+      "id": "bir-office",
+      "name": "BIR Office",
+      "short": "BIR",
+      "category": "civil",
+      "head": "",
+      "title": "",
+      "keywords": "tax tin",
+      "notes": ""
+    },
+    {
+      "id": "bmoec-office",
+      "name": "BMOEC Office",
+      "short": "BMOEC",
+      "category": "civil",
+      "head": "",
+      "title": "",
+      "keywords": "",
+      "notes": ""
+    },
+    {
+      "id": "comelec-office",
+      "name": "COMELEC Office",
+      "short": "COMELEC",
+      "category": "civil",
+      "head": "",
+      "title": "Election Officer",
+      "keywords": "election voter registration",
+      "notes": ""
+    },
+    {
+      "id": "dilg-office",
+      "name": "DILG Office",
+      "short": "DILG",
+      "category": "civil",
+      "head": "",
+      "title": "Municipal Local Government Operations Officer",
+      "keywords": "",
+      "notes": ""
+    },
+    {
+      "id": "dti-office",
+      "name": "DTI Office",
+      "short": "DTI",
+      "category": "civil",
+      "head": "",
+      "title": "",
+      "keywords": "business name negosyo",
+      "notes": ""
+    },
+    {
+      "id": "hall-of-justice-office",
+      "name": "Hall of Justice Office",
+      "short": "Hall of Justice",
+      "category": "civil",
+      "head": "",
+      "title": "",
+      "keywords": "court",
+      "notes": ""
+    },
+    {
+      "id": "lcr-office",
+      "name": "LCR Office",
+      "short": "LCR",
+      "category": "civil",
+      "head": "Sarah Flora Balares",
+      "title": "Municipal Civil Registrar",
+      "keywords": "birth certificate marriage certificate death certificate civil registry",
+      "notes": ""
+    },
+    {
+      "id": "liga-office",
+      "name": "LIGA Office",
+      "short": "LIGA",
+      "category": "civil",
+      "head": "",
+      "title": "",
+      "keywords": "",
+      "notes": ""
+    },
+    {
+      "id": "licensing-office",
+      "name": "Licensing Office",
+      "short": "Licensing",
+      "category": "civil",
+      "head": "Marietta Bismonte",
+      "title": "Business Permits and Licensing Officer",
+      "keywords": "business permit mayor's permit permits",
+      "notes": ""
+    },
+    {
+      "id": "post-office",
+      "name": "Post Office",
+      "short": "Post Office",
+      "category": "civil",
+      "head": "",
+      "title": "",
+      "keywords": "mail postal",
+      "notes": ""
+    },
+    {
+      "id": "mayors-office",
+      "name": "Mayor's Office",
+      "short": "Mayor",
+      "category": "exec",
+      "head": "Hon. Jeffrey S. Besinio",
+      "title": "Municipal Mayor",
+      "keywords": "mayor",
+      "notes": ""
+    },
+    {
+      "id": "office-of-the-sb-secretary",
+      "name": "Office of the SB Secretary",
+      "short": "SB Secretary",
+      "category": "exec",
+      "head": "Roque T. Pelingon",
+      "title": "Secretary to the Sangguniang Bayan",
+      "keywords": "",
+      "notes": ""
+    },
+    {
+      "id": "office-of-the-secretary",
+      "name": "Office of the Secretary",
+      "short": "Secretary",
+      "category": "exec",
+      "head": "Caroline Pinon",
+      "title": "",
+      "keywords": "",
+      "notes": ""
+    },
+    {
+      "id": "vice-mayor-office",
+      "name": "Vice Mayor Office",
+      "short": "Vice Mayor",
+      "category": "exec",
+      "head": "Hon. Jonathan M. Cuyahon",
+      "title": "Municipal Vice Mayor",
+      "keywords": "vice mayor",
+      "notes": ""
+    },
+    {
+      "id": "accounting-office",
+      "name": "Accounting Office",
+      "short": "Accounting",
+      "category": "finance",
+      "head": "Arlene Mapa",
+      "title": "Municipal Accountant",
+      "keywords": "",
+      "notes": ""
+    },
+    {
+      "id": "auditors-office",
+      "name": "Auditor's Office",
+      "short": "Auditor",
+      "category": "finance",
+      "head": "",
+      "title": "Municipal Auditor",
+      "keywords": "",
+      "notes": ""
+    },
+    {
+      "id": "bac-office",
+      "name": "BAC Office",
+      "short": "BAC",
+      "category": "finance",
+      "head": "",
+      "title": "",
+      "keywords": "",
+      "notes": ""
+    },
+    {
+      "id": "budget-office",
+      "name": "Budget Office",
+      "short": "Budget",
+      "category": "finance",
+      "head": "Hayres T. Baraero",
+      "title": "Municipal Budget Officer",
+      "keywords": "",
+      "notes": ""
+    },
+    {
+      "id": "gso-office",
+      "name": "GSO Office",
+      "short": "GSO",
+      "category": "finance",
+      "head": "",
+      "title": "General Services Officer",
+      "keywords": "",
+      "notes": ""
+    },
+    {
+      "id": "mto-office",
+      "name": "MTO Office",
+      "short": "MTO",
+      "category": "finance",
+      "head": "",
+      "title": "",
+      "keywords": "",
+      "notes": ""
+    },
+    {
+      "id": "treasurers-office",
+      "name": "Treasurer's Office",
+      "short": "Treasurer",
+      "category": "finance",
+      "head": "Alejandro F. Ventajar",
+      "title": "Municipal Treasurer",
+      "keywords": "cedula community tax real property tax payment cashier",
+      "notes": ""
+    },
+    {
+      "id": "agriculture-office",
+      "name": "Agriculture Office",
+      "short": "Agriculture",
+      "category": "planning",
+      "head": "",
+      "title": "Municipal Agriculturist",
+      "keywords": "farmers crops fisheries",
+      "notes": ""
+    },
+    {
+      "id": "cbms-office",
+      "name": "CBMS Office",
+      "short": "CBMS",
+      "category": "planning",
+      "head": "",
+      "title": "",
+      "keywords": "community based monitoring system survey",
+      "notes": ""
+    },
+    {
+      "id": "drrmo-menro-office",
+      "name": "DRRMO / MENRO Office",
+      "short": "DRRMO / MENRO",
+      "category": "planning",
+      "head": "",
+      "title": "",
+      "keywords": "",
+      "notes": ""
+    },
+    {
+      "id": "engineering-office",
+      "name": "Engineering Office",
+      "short": "Engineering",
+      "category": "planning",
+      "head": "Engr. Perfecto Taduran",
+      "title": "Municipal Engineer",
+      "keywords": "building permit construction occupancy",
+      "notes": ""
+    },
+    {
+      "id": "menro-office",
+      "name": "MENRO Office",
+      "short": "MENRO",
+      "category": "planning",
+      "head": "",
+      "title": "Municipal Environment and Natural Resources Officer",
+      "keywords": "",
+      "notes": ""
+    },
+    {
+      "id": "mpdc-office",
+      "name": "MPDC Office",
+      "short": "MPDC",
+      "category": "planning",
+      "head": "EnP. Erwin B. Contreras",
+      "title": "Municipal Planning and Development Coordinator",
+      "keywords": "planning zoning development",
+      "notes": ""
+    },
+    {
+      "id": "gad-office",
+      "name": "GAD Office",
+      "short": "GAD",
+      "category": "social",
+      "head": "",
+      "title": "GAD Focal Person",
+      "keywords": "gender and development women",
+      "notes": ""
+    },
+    {
+      "id": "lrdc-kalahi-cidss-office",
+      "name": "LRDC / KALAHI-CIDSS Office",
+      "short": "LRDC / KALAHI",
+      "category": "social",
+      "head": "",
+      "title": "",
+      "keywords": "",
+      "notes": ""
+    },
+    {
+      "id": "mho-office",
+      "name": "MHO Office",
+      "short": "MHO",
+      "category": "social",
+      "head": "",
+      "title": "Municipal Health Officer",
+      "keywords": "health clinic medical sanitary health certificate",
+      "notes": ""
+    },
+    {
+      "id": "omass-office",
+      "name": "OMASS Office",
+      "short": "OMASS",
+      "category": "social",
+      "head": "",
+      "title": "",
+      "keywords": "",
+      "notes": ""
+    },
+    {
+      "id": "pwd-office",
+      "name": "PWD Office",
+      "short": "PWD",
+      "category": "social",
+      "head": "",
+      "title": "",
+      "keywords": "persons with disability pwd id",
+      "notes": ""
+    },
+    {
+      "id": "senior-citizens-office",
+      "name": "Senior Citizen's Office",
+      "short": "Senior Citizens",
+      "category": "social",
+      "head": "",
+      "title": "",
+      "keywords": "osca senior id elderly",
+      "notes": ""
+    }
+  ]
+}
